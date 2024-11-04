@@ -68,9 +68,9 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
    ~~~
 
  - Example 2:
-   ~~~Power BI
-  Average Age = Sum('HR data'[Age])/sum('HR data'[Employee Count])
-   ~~~
+ ~~~Power BI
+ Average Age = Sum('HR data'[Age])/sum('HR data'[Employee Count])
+ ~~~
 
 
 ### Data Visualization
