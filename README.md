@@ -15,7 +15,8 @@
 
 [Data Analysis](#data-analysis)
 
-[Key Insights](#key-insights0
+[Key Insights](#key-insights)
+
 
 [Data Visualization](#data-visualization)
 
