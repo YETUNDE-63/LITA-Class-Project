@@ -1,6 +1,6 @@
 # LITA-Class-Project
 
-### Project Title:
+### Project Title: Analysis of HR Data
 ------------------
 
 [Project Overview](#project-overview)
