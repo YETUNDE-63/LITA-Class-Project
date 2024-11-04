@@ -51,7 +51,7 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 
 ### Exploratory Data Analysis
 -----------------------------
-- EDA involveed the exploring of the Data to answer some questions about the Data such as:
+- EDA involved the exploring of the Data to answer some questions about the Data such as:
   1. What is the Attrition Rate to Total Number Of Employee?
   2. What is the Attrition Rate by Department?
   3. What is the Attrition Rate by Educational Field?
