@@ -1,6 +1,6 @@
 # LITA-Class-Project
 
-### Project Title: Analysis of HR Data
+### Project Title: Incubator Hub HR Data Analysis Tracker
 ------------------
 
 [Project Overview](#project-overview)
@@ -17,26 +17,22 @@
 
 [Data Visualization](#data-visualization)
 
-### Class Overview
+### Project Overview
 -------------------
-
-
-
+This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to generate insight into the attrition rate
 
 ### Data Sources
 ----------------
+[HR Data.xlsx](https://github.com/user-attachments/files/17624020/HR.Data.xlsx)
+
 
 ### Tools Used
 --------------
-
 
 - Microsoft Excel [Download Here](http://www.microsoft.com)
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
- 
-- SQL - Structured Query Language
-  - For Querying of Data
  
 - GitHub
   - For Portfolio Building
