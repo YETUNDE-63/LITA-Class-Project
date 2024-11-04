@@ -74,7 +74,14 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
  Average Age = Sum('HR data'[Age])/sum('HR data'[Employee Count])
  ~~~
 
-
+### Key Insights
+----------------
+- Total Number of Attrition count = 237 (i.e. 16%):
+- By Deparment, 133 from R&D;
+- By Education Field, 89 from Life Sciences;
+- By Gender, 150 males; and
+- By Age Band, 112 between 25-34
+  
 ### Data Visualization
 ----------------------
 
