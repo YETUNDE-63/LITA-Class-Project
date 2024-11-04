@@ -17,6 +17,8 @@
 
 [Data Visualization](#data-visualization)
 
+[Acknowledgement](#acknowledgement)
+
 ### Project Overview
 -------------------
 This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to generate insight into the attrition rate
@@ -85,3 +87,9 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 |---------|---------|---------|
 |Table 1|Table 2|Table 3|
 
+
+
+### Acknowledgement
+------------------
+
+I appreciate the Almighty God for the privilege to be part of this journey. My thanks also goes to The Incubator Hub, our Well-equipped Facilitators: Muhsin H. (Excel Facilitator); Femi Ayodele (SQL Facilitator); & Temidayo TeeDee Ayeni (Portfolio building - GItHub/Power BI Facilitator) for the great job done.
