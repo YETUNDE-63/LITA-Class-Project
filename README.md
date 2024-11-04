@@ -33,6 +33,11 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
+
+- Power BI
+  - For Data Entry/Get Data from Open Sources
+  - For Data Transformation
+  - For Data Visualization
  
 - GitHub
   - For Portfolio Building
@@ -47,21 +52,24 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 ### Exploratory Data Analysis
 -----------------------------
 - EDA involveed the exploring of the Data to answer some questions about the Data such as:
-  1. What is the total fees paid by students in all branches?
-  2. Wchich gender are top class?
+  1. What is the Attrition Rate to Total Number Of Employee?
+  2. What is the Attrition Rate by Department?
+  3. What is the Attrition Rate by Educational Field?
+  4. What is the Attrition Rate by Gender?
+  5. What is the Attrition Rate by Age Group
+  
 
 ### Data Analysis
 -----------------
 - This is where we included some basic lines of code or queries or even some of the DAX expressions used during the analysis.
    - Example 1:
-   ~~~SQL
-   SELECT * FROM TABLE1
-   WHERE CONDITION = TRUE
+   ~~~Power BI
+   Attrition Rate = Sum('HR data'[Attrition Count])/sum('HR data'[Employee Count])
    ~~~
 
  - Example 2:
-   ~~~SQL
-   SELECT * FROM TABLE1
+   ~~~Power BI
+  Average Age = Sum('HR data'[Age])/sum('HR data'[Employee Count])
    ~~~
 
 
