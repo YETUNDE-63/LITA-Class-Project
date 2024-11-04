@@ -1,11 +1,9 @@
-#### Class-Project
-
-# LITA_Class_Documentation
+# LITA-Class-Project
 
 ### Project Title:
 ------------------
 
-[Class Overview](#class-overview)
+[Project Overview](#project-overview)
 
 [Data Sources](#data-sources)
 
