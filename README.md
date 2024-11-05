@@ -17,6 +17,7 @@
 
 [Key Insights](#key-insights)
 
+[Links}(#limks)
 
 [Data Visualization](#data-visualization)
 
@@ -84,7 +85,12 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 - By Education Field, 89 from Life Sciences;
 - By Gender, 150 males; and
 - By Age Band, 112 between 25-34
-  
+
+### Links
+---------
+
+https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_ng/Documents/Documents/SQL%20Server%20Management%20Studio/SQLQuerySALESDATA.sql?csf=1&web=1&e=vfEhow
+
 ### Data Visualization
 ----------------------
 
