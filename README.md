@@ -88,6 +88,7 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 
 ### Links
 ---------
+[HR Data.xlsx](https://github.com/user-attachments/files/17637977/HR.Data.xlsx)
 
 
 ### Data Visualization
