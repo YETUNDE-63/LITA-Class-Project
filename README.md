@@ -17,7 +17,7 @@
 
 [Key Insights](#key-insights)
 
-[Links}(#links)
+[Links](#links)
 
 [Data Visualization](#data-visualization)
 
