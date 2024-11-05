@@ -88,8 +88,7 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 
 ### Links
 ---------
-
-https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_ng/Documents/Documents/SQL%20Server%20Management%20Studio/SQLQuerySALESDATA.sql?csf=1&web=1&e=vfEhow
+https://wesabimarket-my.sharepoint.com/:u:/r/personal/yetunde_wesabimarket_com_ng/Documents/Documents/LITA_CLASS_WORK.pbix?csf=1&web=1&e=9fUxid
 
 ### Data Visualization
 ----------------------
