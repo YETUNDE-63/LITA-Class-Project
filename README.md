@@ -17,7 +17,7 @@
 
 [Key Insights](#key-insights)
 
-[Links](#links)
+[Link](#link)
 
 [Data Visualization](#data-visualization)
 
@@ -86,8 +86,8 @@ This Class project; titled "Incubator Hub HR Data Analysis Tracker" aimed to gen
 - By Gender, 150 males; and
 - By Age Band, 112 between 25-34
 
-### Links
----------
+### Link
+--------
 [HR Data.xlsx](https://github.com/user-attachments/files/17637977/HR.Data.xlsx)
 
 
